@@ -1,0 +1,14 @@
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\bin\Debug\net8.0\poo-challenge.exe
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\bin\Debug\net8.0\poo-challenge.deps.json
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\bin\Debug\net8.0\poo-challenge.runtimeconfig.json
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\bin\Debug\net8.0\poo-challenge.dll
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\bin\Debug\net8.0\poo-challenge.pdb
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.AssemblyInfoInputs.cache
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.AssemblyInfo.cs
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.csproj.CoreCompileInputs.cache
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.dll
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\refint\poo-challenge.dll
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.pdb
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\poo-challenge.genruntimeconfig.cache
+C:\Users\Gilberto Medeiros\Desktop\AVENADE\poo-challenge\obj\Debug\net8.0\ref\poo-challenge.dll
