@@ -9,6 +9,7 @@ namespace poo_challenge.Models
         public override void InstalarAplicativo(string nomeAPP)
         {
             Console.WriteLine($"Instalando aplicativo {nomeAPP} na OviStore");
+            Aplicativos.Add(nomeAPP);
         }
     }
 }
